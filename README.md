@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Luke Zhang
+*Aspiring Full Stack Developer*
 
+<a href="https://luke-zhang-04.github.io/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luke-zhang-04&repo=Luke-zhang-04.github.io&theme=tokyonight" alt="personal site"/></a>
+<a href="https://github.com/Luke-zhang-04/kk-cabinets" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luke-zhang-04&repo=kk-cabinets&theme=tokyonight" alt="kk cabinets"/></a>
 <!--
 **Luke-zhang-04/Luke-zhang-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I create websites and web applications with tech such as Firebase, NodeJS, and TypeScript.
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luke-zhang-04&theme=tokyonight" alt="top langs"/></a>
+
+- Frontend: HTML, CSS/SCSS, React, Webpack, and JavaScript/Typescript
+- Backend: Python, NodeJS, TypeScript, C++, Golang
+- Cloud Computing: Firebase
+- CI/CD: Bash, Github Actions
+
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api?username=Luke-zhang-04&show_icons=true&theme=tokyonight&show-border=false" alt="Github Status"></a>
