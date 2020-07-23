@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Luke Zhang
 *Aspiring Full Stack Developer*
 
-<a href="https://luke-zhang-04.github.io/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luke-zhang-04&repo=Luke-zhang-04.github.io&theme=tokyonight" alt="personal site"/></a>
-<a href="https://github.com/Luke-zhang-04/kk-cabinets" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luke-zhang-04&repo=kk-cabinets&theme=tokyonight" alt="kk cabinets"/></a>
+<!-- <a href="https://luke-zhang-04.github.io/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luke-zhang-04&repo=Luke-zhang-04.github.io&theme=tokyonight" alt="personal site"/></a>
+<a href="https://github.com/Luke-zhang-04/kk-cabinets" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luke-zhang-04&repo=kk-cabinets&theme=tokyonight" alt="kk cabinets"/></a> -->
 <!--
 **Luke-zhang-04/Luke-zhang-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
