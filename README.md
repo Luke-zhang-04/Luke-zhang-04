@@ -22,8 +22,8 @@ I create websites and web applications with tech such as Firebase, NodeJS, and T
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luke-zhang-04&theme=tokyonight" alt="top langs"/></a>
 
-- Frontend: HTML, CSS/SCSS, React, Webpack, and JavaScript/Typescript
-- Backend: Python, NodeJS, TypeScript, C++, Golang
+- Frontend: React, Webpack, JavaScript/Typescript, HTML, and CSS/SCSS
+- Backend: Python, NodeJS (JS and TS), C++, GoLang
 - Cloud Computing: Firebase
 - CI/CD: Bash, Github Actions
 
