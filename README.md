@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 I create websites and web applications with tech such as Firebase, NodeJS, and TypeScript.
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luke-zhang-04&theme=tokyonight" alt="top langs"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luke-zhang-04&theme=tokyonight&hide_border=true" alt="top langs"/></a>
 
 - Frontend: React, Webpack, JavaScript/Typescript, HTML, and CSS/SCSS
 - Backend: Python, NodeJS (JS and TS), C++, GoLang
 - Cloud Computing: Firebase
 - CI/CD: Bash, Github Actions
 
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api?username=Luke-zhang-04&show_icons=true&theme=tokyonight&show-border=false" alt="Github Status"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api?username=Luke-zhang-04&show_icons=true&theme=tokyonight&hide_border=true" alt="Github Status"></a>
