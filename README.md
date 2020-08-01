@@ -25,6 +25,6 @@ I create websites and web applications with tech such as Firebase, NodeJS, and T
 - Frontend: React, Webpack, JavaScript/Typescript, HTML, and CSS/SCSS
 - Backend: Python, NodeJS (JS and TS), C++, GoLang
 - Cloud Computing: Firebase
-- CI/CD: Bash, Github Actions
+- CI/CD: Bash, Github Actions, Mocha, istanbul/NYC
 
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api?username=Luke-zhang-04&show_icons=true&theme=tokyonight&hide_border=true" alt="Github Status"></a>
