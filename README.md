@@ -13,4 +13,4 @@
 - PAAS: AWS, Firebase
 - CI/CD: Bash/Shell, Github Actions
 
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Luke-zhang-04&theme=tokyonight&hide_border=true&layout=compact&exclude_repo=Anarchy,kk-cabinets-admin,ICS4UI&hide=html&langs_count=7&bg_color=0000" alt="top langs"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Luke-zhang-04&theme=tokyonight&hide_border=true&layout=compact&exclude_repo=Anarchy,kk-cabinets-admin,ICS4UI&hide=html&langs_count=6&bg_color=0000" alt="top langs"/></a>
