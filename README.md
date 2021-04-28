@@ -7,10 +7,4 @@
 <!--   <a href="https://twitter.com/Luke_zhang_04" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-%40Luke__zhang__04-blue?style=for-the-badge&logo=twitter" alt="Twitter"/></a>  -->
 </p>
 
-## Compatible Tech
-- Frontend: React, Webpack/Rollup, JavaScript/Typescript, HTML, and CSS/SCSS
-- Backend: Python, NodeJS (JS and TS), Express JS, Go, C++
-- PAAS: AWS, Firebase
-- CI/CD: Bash/Shell, Github Actions
-
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Luke-zhang-04&theme=tokyonight&hide_border=true&layout=compact&exclude_repo=Anarchy,kk-cabinets-admin,ICS4UI&hide=html&langs_count=6&bg_color=0000" alt="top langs"/></a>
