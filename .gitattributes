@@ -1,1 +1,5 @@
+# Show markdown
 *.md linguist-detectable=true
+
+# Enforce Unix newlines
+* text=auto eol=lf
