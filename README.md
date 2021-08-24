@@ -8,8 +8,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Luke-zhang-04&theme=tokyonight&hide_border=true&layout=compact&exclude_repo=Anarchy,kk-cabinets-admin,ICS4UI&hide=html&langs_count=6&bg_color=0d1117" alt="top langs"/></a>
 
 - 💻 OS: Linux (Arch BTW)
-  <li float="left"><img src="https://cdn.iconscout.com/icon/free/png-512/code-280-460136.png" alt="languages" width="16px"/> Languages: Typescript, Python, Shell, SCSS</li>
+  <li float="left"><img src="https://cdn.iconscout.com/icon/free/png-512/code-280-460136.png" alt="languages" width="16px"/> Languages: Typescript, Python, Shell, C++, SCSS</li>
   <li float="left"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="16px"/> IDE: VSCode</li>
+- 🗄️ Databases: MySQL/MariaDB, Prisma ORM, Firebase Firestore
 - 🧪 CI/CD/Testing: Jest, Mocha, Github Actions
 - 🛠️ Tools: Rollup, Eslint, Prettier, Husky
 - 🧰 Frameworks: React, Svelte, Express
